@@ -1,0 +1,53 @@
+* { box-sizing: border-box; }
+
+body {
+  background-color: white;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 80%;
+  letter-spacing: 1px;
+  width: 100%;
+}
+
+header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 200%;
+}
+
+li {
+  float: left;
+  list-style: none;
+  background-color: white;
+  border-bottom: solid;
+  width: 25%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 130%;
+  font-family: fantasy;
+}
+figure {
+  display: inline-block;
+  text-align: center;
+  padding-top: 5rem;
+  background-color: white;
+  padding-bottom: 4rem;
+  width: 100%;
+  margin-left: -48px;
+}
+
+figcaption {
+ 
+  text-align: center;
+  padding-top: 1rem;
+  width: 100%; 
+
+}
+
+footer {
+  border-top: solid;
+  padding-top: 1rem;
+  font-size: 75%;
+}
